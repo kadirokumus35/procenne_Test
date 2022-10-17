@@ -21,7 +21,7 @@ tests classimda TestNG'de rapor almak icin TestBaseRapor class ile extends yapar
 yardimci classimiz. Bu dosyamda sürekli lazim olan classlarimiz ve methodlarimiz bulunmaktadir. İcerisinde  projemi daha anlasilir hale getirecek classlarim ve methodlarim var bunlar
 <b> Driver.class </b> , <b> CrossDriver.class </b> , <b> ConfigReader.class </b> , <b> ReusableMehod.class </b> , <b> TestBaseRapor.class </b> vb. dosyalarim bulunmaktadir. 
 
-### <b> Configuration.properties </b>
+### <b> configuration.properties </b>
 properties dosyamda sürekli kullandıigim variablelarim bulunmakta , bu veriabları kullanmak için properties dosyası <b> Key  =  value </b> olarak oluşturulmakta buradaki bilgileri baska classlara cagirabilmek icin utilities dosyasindan
 <b> ConfigReader </b> classi çagirilarak icindeki method sayesinde bu dosyada bulunan bilgileri istediğim yere cagirabildim
 
