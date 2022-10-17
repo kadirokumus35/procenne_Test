@@ -44,6 +44,7 @@ Java11  ve Maven projesi olusturulup TestNG framework kullanilarak olusturulmust
 <a href="https://www.intelj.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQak-N8W03mK25slV1lwM80i0y1obRPPJOaLA&usqp=CAU" alt="intelj" width="80" height="40"/> </a>
 <a href="https://www.maven.com" target="_blank" rel="noreferrer"> <img src="https://koraypeker.com/wp-content/uploads/2018/06/1_xsrKVt69q3JsZzLD-ldekQ.jpeg" alt="git" width="100" height="40"/> </a>
 ![tests passed](https://user-images.githubusercontent.com/100091154/196068515-cce8b9f8-94c4-4466-82ce-1948254c7cf4.png)
+![procenneRapor](https://user-images.githubusercontent.com/100091154/196072066-6fbc2e7d-5a23-48b0-836f-0a94383aac9c.png)
 
 
 <br/>
